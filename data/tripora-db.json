@@ -1,0 +1,278 @@
+{
+  "attractions": [
+    {
+      "id": "att-1",
+      "name": "Asgiriya Rajamaha Viharaya",
+      "category": "Heritage / Religious",
+      "distance_km": 6,
+      "description": "An ancient cave temple complex dating back to the Dambadeniya era. Features historic murals, a majestic reclining Buddha statue carved into rock formations, sacred Bo tree, and venerable stone inscriptions nestled among tranquil greenery.",
+      "opening_hours": "06:00 AM - 06:30 PM",
+      "location_coords": {
+        "lat": 7.1648,
+        "lng": 79.988
+      },
+      "travel_tips": "Strictly observe temple etiquette: remove shoes and headwear at the main terrace. Photography of Buddha statues is allowed from respectful vantage points without posing with your back to the image.",
+      "dress_code": "White or modest clothing covering shoulders and knees",
+      "best_time": "Early morning (06:30 AM - 08:30 AM) or sunset hours",
+      "entry_fee": "Free (voluntary donation box available)",
+      "family_friendly": true,
+      "parking_available": true,
+      "image_url": "/assets/aistudio/asgiriya1_a42f45e9.jpg",
+      "gallery": [
+        "/assets/aistudio/asgiriya1_a42f45e9.jpg",
+        "/assets/aistudio/asgiriya2_d0b34702.jpg",
+        "/assets/aistudio/asgiriya3_62236909.jpg",
+        "/assets/aistudio/asgiriya5_631eb864.jpg",
+        "/assets/aistudio/asgiriya6_911daa94.jpg",
+        "/assets/aistudio/asgiriya_900712d8.webp"
+      ],
+      "estimated_duration_mins": 75
+    },
+    {
+      "id": "att-2",
+      "name": "Henarathgoda Botanical Garden",
+      "category": "Nature / Parks",
+      "distance_km": 15,
+      "description": "A historic botanical garden famous worldwide as the cradle where the very first Brazilian rubber seedlings were cultivated in Sri Lanka in 1876. Covers over 43 acres of towering palm avenues, ornamental orchids, giant bamboo groves, historic sacred Bo tree, and lush shade trees.",
+      "opening_hours": "08:00 AM - 05:30 PM",
+      "location_coords": {
+        "lat": 7.0917,
+        "lng": 79.9917
+      },
+      "travel_tips": "Wonderful location for serene family strolls and photography. Paved shaded footpaths make it accessible for strollers and elders. Bring water bottles for walks.",
+      "dress_code": "Casual, comfortable walking attire and sneakers",
+      "best_time": "Morning (08:30 AM - 11:00 AM) or gentle afternoon breeze",
+      "entry_fee": "Rs. 100 for local residents, nominal foreign visitor ticket",
+      "family_friendly": true,
+      "parking_available": true,
+      "image_url": "/assets/aistudio/henarathgoda1_2d5f073f.jpg",
+      "gallery": [
+        "/assets/aistudio/henarathgoda1_2d5f073f.jpg",
+        "/assets/aistudio/henarathgoda2_bc4c6755.jpg",
+        "/assets/aistudio/henarathgoda3_5b930bac.jpg",
+        "/assets/aistudio/henarathgoda-botanical-garden4-1_da482f16.jpg",
+        "/assets/aistudio/henarathgoda-botanical-garden-df40bbe7040e86f3b0a27e7325ec91da_18d61fbd.webp",
+        "/assets/aistudio/gampaha_bo_312dcf73.jpg",
+        "/assets/aistudio/bo1_1f1a36f3.jpg"
+      ],
+      "estimated_duration_mins": 120
+    },
+    {
+      "id": "att-3",
+      "name": "Horagolla National Park",
+      "category": "Nature / Wildlife",
+      "distance_km": 18,
+      "description": "The only designated national park in the Western Province and one of Sri Lanka’s smallest protected wildlife reserves. A rich low-country tropical wet evergreen forest sanctuary home to giant squirrels, flying foxes, civet cats, and rare endemic forest birds.",
+      "opening_hours": "06:00 AM - 05:00 PM",
+      "location_coords": {
+        "lat": 7.1472,
+        "lng": 80.125
+      },
+      "travel_tips": "Wear closed walking shoes and carry mosquito repellent. Keep noise to a minimum while walking the designated nature loops to observe birds and canopy animals.",
+      "dress_code": "Neutral-colored outdoor trekking clothing and closed shoes",
+      "best_time": "Early morning (06:30 AM - 09:30 AM) when wildlife is most active",
+      "entry_fee": "Department of Wildlife Conservation permit at gate",
+      "family_friendly": true,
+      "parking_available": true,
+      "image_url": "/assets/aistudio/Horagolla_b535889f.jpg",
+      "gallery": [
+        "/assets/aistudio/Horagolla_b535889f.jpg",
+        "/assets/aistudio/horagolla1_789692e6.jpg",
+        "/assets/aistudio/horagolla2_a297382b.jpg",
+        "/assets/aistudio/horagolla3_7ee830ab.jpg",
+        "/assets/aistudio/horagolla4_d0871678.jpg",
+        "/assets/aistudio/horagolla5_6657e245.jpg"
+      ],
+      "estimated_duration_mins": 110
+    },
+    {
+      "id": "att-4",
+      "name": "Guruge Nature Park",
+      "category": "Sightseeing / Theme Park",
+      "distance_km": 12,
+      "description": "Sri Lanka’s premier cultural theme park in Ja-Ela, featuring full-scale reconstructions of ancient heritage architecture, life-size dinosaur park exhibitions, gem mining history pavilions, botanical displays, Mayan water park, and boat rides.",
+      "opening_hours": "09:00 AM - 06:00 PM",
+      "location_coords": {
+        "lat": 7.0805,
+        "lng": 79.9142
+      },
+      "travel_tips": "Ideal for traveling with children. Check schedule at entrance for traditional cultural dance performances held in the afternoon amphitheater.",
+      "dress_code": "Casual holiday wear and sun hats",
+      "best_time": "Mid-morning to afternoon (10:00 AM - 03:30 PM)",
+      "entry_fee": "Standard theme park entry pass per person",
+      "family_friendly": true,
+      "parking_available": true,
+      "image_url": "/assets/aistudio/guruge1_7d5bc74e.jpg",
+      "gallery": [
+        "/assets/aistudio/guruge1_7d5bc74e.jpg",
+        "/assets/aistudio/guruge2_fe8d6962.jpg",
+        "/assets/aistudio/guruge4_496c5d0b.webp",
+        "/assets/aistudio/guruge5_01b53919.jpg",
+        "/assets/aistudio/gururge_0c10c1b4.jpg"
+      ],
+      "estimated_duration_mins": 150
+    },
+    {
+      "id": "att-5",
+      "name": "Browns Beach, Negombo",
+      "category": "Coastal / Sightseeing",
+      "distance_km": 18,
+      "description": "A celebrated golden sand coastline along the Indian Ocean in Negombo. Dotted with traditional wooden catamaran sailboats, gentle waves, and lively seaside promenade stalls offering fresh king coconut water and local street snacks.",
+      "opening_hours": "Open 24 Hours (Best: 04:30 PM - 07:00 PM)",
+      "location_coords": {
+        "lat": 7.2289,
+        "lng": 79.8402
+      },
+      "travel_tips": "Unmissable golden hour ocean sunset. Enjoy authentic Sri Lankan street food like spicy isso wade (prawn fritters) from certified local beach carts. Exercise caution when swimming.",
+      "dress_code": "Beachwear / relaxed casual clothing",
+      "best_time": "Sunset hours (04:45 PM - 06:30 PM)",
+      "entry_fee": "Free public access",
+      "family_friendly": true,
+      "parking_available": true,
+      "image_url": "/assets/aistudio/beach1__2__1d0ad359.jpg",
+      "gallery": [
+        "/assets/aistudio/beach1__2__1d0ad359.jpg",
+        "/assets/aistudio/beach2_5934b633.jpg",
+        "/assets/aistudio/beach3_33ba25ed.jpg",
+        "/assets/aistudio/beach4_d6370827.jpg",
+        "/assets/aistudio/beach122_152c2965.jpg",
+        "/assets/aistudio/beach1112__d981e42f.jpg",
+        "/assets/aistudio/beachh34_d981e42f.jpg"
+      ],
+      "estimated_duration_mins": 90
+    },
+    {
+      "id": "att-6",
+      "name": "Negombo Beach Park & Lagoon Hub",
+      "category": "Coastal / Sightseeing",
+      "distance_km": 19,
+      "description": "Negombo’s vibrant beach park and lagoon front, featuring oceanside leisure grounds, children playground, water sports, lagoon boat piers, and historic coastal viewpoints overlooking the bustling fishing harbour.",
+      "opening_hours": "07:00 AM - 08:00 PM",
+      "location_coords": {
+        "lat": 7.2081,
+        "lng": 79.8315
+      },
+      "travel_tips": "Great for family recreation by the sea with park benches and walking paths. Capture scenic photos of fishing catamarans returning at dusk.",
+      "dress_code": "Comfortable cotton wear and sunglasses",
+      "best_time": "Morning (07:30 AM - 10:00 AM) or late afternoon",
+      "entry_fee": "Free beach park grounds access",
+      "family_friendly": true,
+      "parking_available": true,
+      "image_url": "/assets/aistudio/beachpark1_76f630d0.jpg",
+      "gallery": [
+        "/assets/aistudio/beachpark1_76f630d0.jpg",
+        "/assets/aistudio/parknegambo1_db9413c7.jpg",
+        "/assets/aistudio/caption_cdf9a36c.jpg"
+      ],
+      "estimated_duration_mins": 80
+    },
+    {
+      "id": "att-7",
+      "name": "St. Mary’s Church, Negombo",
+      "category": "Cultural / Religious",
+      "distance_km": 18.5,
+      "description": "Renowned as the crown jewel of Negombo’s deep Catholic heritage. An imposing neoclassical cathedral built across 50 years, featuring awe-inspiring vaulted ceiling murals painted by renowned Sri Lankan artist N.S. Godamanne.",
+      "opening_hours": "06:00 AM - 07:00 PM",
+      "location_coords": {
+        "lat": 7.2096,
+        "lng": 79.8384
+      },
+      "travel_tips": "Maintain quiet reverent decorum inside the sanctuary. Natural daylight provides optimal illumination for viewing the painted ceilings. Photography allowed outside prayer service times.",
+      "dress_code": "Modest cathedral attire covering shoulders",
+      "best_time": "Mid-morning (09:00 AM - 11:30 AM) or mid-afternoon",
+      "entry_fee": "Free entry for all",
+      "family_friendly": true,
+      "parking_available": true,
+      "image_url": "/assets/aistudio/church_758adc6c.jpg",
+      "gallery": [
+        "/assets/aistudio/church_758adc6c.jpg",
+        "/assets/aistudio/church1_35c4b7b0.jpg",
+        "/assets/aistudio/church5_d6811a3b.jpg",
+        "/assets/aistudio/chu_0da13509.jpg"
+      ],
+      "estimated_duration_mins": 60
+    },
+    {
+      "id": "att-8",
+      "name": "Kelaniya Raja Maha Viharaya",
+      "category": "Heritage / Religious",
+      "distance_km": 22,
+      "description": "One of the most sacred pilgrimage sites in Buddhism, sanctified by the Lord Buddha’s third visit to Sri Lanka. Famed for its monumental stupa, historic Kelani riverbank setting, and world-renowned murals by Solias Mendis depicting Jataka tales.",
+      "opening_hours": "05:30 AM - 08:30 PM",
+      "location_coords": {
+        "lat": 6.9582,
+        "lng": 79.9192
+      },
+      "travel_tips": "White clothing is traditional and strongly appreciated. Remove all footwear and hats at the entrance gate. Experience the evocative evening oil lamp lighting ceremonies.",
+      "dress_code": "White or light-colored modest clothing covering shoulders & below knees",
+      "best_time": "Evening (05:30 PM - 07:30 PM) during evening puja chanting",
+      "entry_fee": "Free admission for all tourists",
+      "family_friendly": true,
+      "parking_available": true,
+      "image_url": "/assets/aistudio/kelaniya_9009dad4.jpg",
+      "gallery": [
+        "/assets/aistudio/kelaniya_9009dad4.jpg",
+        "/assets/aistudio/kelaniii_5228bf28.jpg",
+        "/assets/aistudio/kelaniya4_d8b3ab64.jpg",
+        "/assets/aistudio/kelaniyaaa_867edfe0.jpg",
+        "/assets/aistudio/temple_kela_292243ac.jpg",
+        "/assets/aistudio/temple_klaniya_b1511850.jpg"
+      ],
+      "estimated_duration_mins": 90
+    },
+    {
+      "id": "att-9",
+      "name": "Attanagalla Buddha Stupa & Raja Maha Viharaya",
+      "category": "Heritage / Religious",
+      "distance_km": 21,
+      "description": "A deeply sacred hillside Buddhist temple complex revered for its historic Vatadage (circular stupa shrine) and spiritual stupa architecture. Linked to the royal era of King Sri Sangabo, featuring peaceful meditation grounds and ancient stone relics.",
+      "opening_hours": "06:00 AM - 07:00 PM",
+      "location_coords": {
+        "lat": 7.1083,
+        "lng": 80.1417
+      },
+      "travel_tips": "Quiet sacred grounds with serene forest breezes. Remove footwear before climbing the temple terrace to pay homage at the sacred stupa and Bo tree.",
+      "dress_code": "Modest temple attire (shoulders & knees covered)",
+      "best_time": "Morning (08:00 AM - 11:00 AM)",
+      "entry_fee": "Free entry",
+      "family_friendly": true,
+      "parking_available": true,
+      "image_url": "/assets/aistudio/Dambulla-buddhastupa1-150x150_fc53fb30.jpg",
+      "gallery": [
+        "/assets/aistudio/Dambulla-buddhastupa1-150x150_fc53fb30.jpg"
+      ],
+      "estimated_duration_mins": 70
+    },
+    {
+      "id": "att-10",
+      "name": "Supun’s Fruit & Agro Tourism Farm",
+      "category": "Nature / Agro-Tourism",
+      "distance_km": 10,
+      "description": "An authentic tropical agro-tourism orchard near Minuwangoda. Showcases indigenous Sri Lankan tropical vegetables and fruit varieties including fresh rambutan, mangosteen, dragon fruit, and organic eco-farming practices.",
+      "opening_hours": "08:30 AM - 05:00 PM",
+      "location_coords": {
+        "lat": 7.185,
+        "lng": 79.995
+      },
+      "travel_tips": "Sample freshly harvested tropical fruit slices and organic juices. Guided farm trails explain local cultivation and sustainable eco-agriculture.",
+      "dress_code": "Comfortable casual farm wear and sun hat",
+      "best_time": "Morning (09:00 AM - 12:00 PM)",
+      "entry_fee": "Rs. 300 per person (includes fresh sample tasting)",
+      "family_friendly": true,
+      "parking_available": true,
+      "image_url": "/assets/aistudio/farm2_96296749.jpg",
+      "gallery": [
+        "/assets/aistudio/farm2_96296749.jpg"
+      ],
+      "estimated_duration_mins": 90
+    }
+  ],
+  "itineraries": [],
+  "admins": [
+    {
+      "username": "admin",
+      "salt": "tripora_salt_2026",
+      "passwordHash": "3063ab101613daed292a7499b6b0b44ff4ac6cee70479477fd0828124a147d813cd56e35361278e8e5e91121f846807ebc01a5c5285ca148eadf70eea2f6e420"
+    }
+  ]
+}

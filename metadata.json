@@ -1,0 +1,8 @@
+{
+  "name": "Tripora - Local Tourist Day-Visit Planner",
+  "description": "Discover attractions within a 25 km radius of Minuwangoda, explore detailed guides, and plan your custom 1-day travel itinerary with Tripora.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
